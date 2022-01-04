@@ -1,5 +1,5 @@
 # unbiased-estimator
-This will be the repository for the unbiased estimator of the number of active github users from random sampling.
+This will be the repository for the unbiased estimator of the number of active github users from random sampling. This is the part of the work for DS 504 Big Data Analytics class at WPI.
 
 # Idea behind this work
 
